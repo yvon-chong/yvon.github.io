@@ -27,7 +27,7 @@ Data-driven professional with a passion for uncovering insights from data to sol
 ## Education
 
 ### Bachelor of Science in Chemical Engineering
-### Minor in Data Science
+#### Minor in Data Science
 *University of Washington, Seattle*  
 
 ## Skills
