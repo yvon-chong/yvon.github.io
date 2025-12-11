@@ -26,9 +26,9 @@ Data-driven professional with a passion for uncovering insights from data to sol
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Bachelor of Science in Chemical Engineering
+### Minor in Data Science
+*University of Washington, Seattle*  
 
 ## Skills
 
@@ -53,7 +53,6 @@ Conducted customer segmentation analysis using clustering techniques to enhance 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
 
 ## Interests
 
