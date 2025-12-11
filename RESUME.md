@@ -1,9 +1,9 @@
 # Yvon Chong
 Data Scientist
 | [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+| [+1 360 441 6763](tel:+13604416763)
 | [yvon.github.io](https://yvon.github.io)
-| [linkedin.com/in/yv0n](https://www2.linkedin.com/in/yv0n/)
+| [linkedin.com/in/yv0n](https://www.linkedin.com/in/yv0n)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
