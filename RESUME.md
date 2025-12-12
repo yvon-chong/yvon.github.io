@@ -44,7 +44,8 @@ Jan 2022 - Jan 2022 · 1 moJan 2022 to Jan 2022 · 1 mo
 
 ## Projects
 
-### Sales Forecasting Model
+### Northern Shrimp
+Quantitiative Science course project
 Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
 
 ### Customer Segmentation Analysis
