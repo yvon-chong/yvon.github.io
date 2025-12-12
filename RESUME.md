@@ -17,12 +17,12 @@ Data-driven professional with a passion for uncovering insights from data to sol
 - Collaborate with cross-functional teams to develop predictive models
 - Lead data visualization projects to present findings to stakeholders
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
-
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+### C-Hacker at C-HACK 2022
+C-Hacker at C-HACK 2022
+Jan 2022 - Jan 2022 · 1 moJan 2022 to Jan 2022 · 1 mo
+• Analyzed bacterial abundance in wastewater treatment using DBSCAN and K-means clustering.
+• Modeled and visualized corporate proprietary data sets from DOW Chemical.
+• Presented findings to DOW executives and university faculty with data-backed insights.
 
 ## Education
 
