@@ -2,7 +2,6 @@ Incomplete, requires edits
 # Yvon Chong
 Data Scientist <br>
 | [yvon.chong@outlook.com](mailto:yvon.chong@outlook.com) 
-| [+1 360 441 6763](tel:+13604416763) 
 | [yvon.github.io](https://yvon.github.io)
 | [linkedin.com/in/yv0n](https://www.linkedin.com/in/yv0n)
 
