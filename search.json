@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Incomplete, requires edits # Yvon Chong Data Scientist  | yvon.chong@outlook.com | yvon.github.io | linkedin.com/in/yv0n"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "",
+    "section": "About me",
+    "text": "About me\nData-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "",
+    "section": "Skills",
+    "text": "Skills\n\nData Analysis: Python, SQL, R\nVisualization Tools: Matplotlib, Seaborn, ggplot\nMachine Learning: Scikit-learn, TensorFlow"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Science in Chemical Engineering\n\nMinor in Data Science\nUniversity of Washington, Seattle"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "",
+    "section": "Experience",
+    "text": "Experience\n\nData Analyst, ABC Tech Solutions\nJanuary 2023 - Present\n\nUtilize data analysis to optimize business operations and increase efficiency\nCollaborate with cross-functional teams to develop predictive models\nLead data visualization projects to present findings to stakeholders\n\n\n\nC-Hacker at C-HACK 2022\nC-Hacker at C-HACK 2022 Jan 2022 - Jan 2022 · 1 moJan 2022 to Jan 2022 · 1 mo • Analyzed bacterial abundance in wastewater treatment using DBSCAN and K-means clustering. • Modeled and visualized corporate proprietary data sets from DOW Chemical. • Presented findings to DOW executives and university faculty with data-backed insights."
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Data Analytics Professional Certificate - 2022\nMicrosoft Certified: Azure Data Scientist Associate - 2021"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "",
+    "section": "Projects",
+    "text": "Projects\n\nNorthern Shrimp\nQuantitiative Science course project Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.\n\n\nCustomer Segmentation Analysis\nConducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Fluent"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "",
+    "section": "Interests",
+    "text": "Interests\n\nHiking\nTechnology\nPhotography"
+  }
+]
